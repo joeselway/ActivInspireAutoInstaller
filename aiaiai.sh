@@ -53,5 +53,3 @@ hdiutil convert -format UDBZ -o "$roDmgPath" "$rwDmgPath" 1>./ai_hdiutil.log
 rm "$rwDmgPath"
 
 if [ -a "$roDmgPath" ]; then echo "$roDmgPath ready for upload to Jamf"; exit 0; else echo "*** ERROR: No output found, something went wrong. ***"; exit 1; fi
-
-exit 0
