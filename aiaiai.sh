@@ -2,21 +2,21 @@
 
 ###############################################################
 #															                          
-#				      aiaiai.sh								                  
+#     aiaiai.sh								                  
 #															                          
-#	   activ inspire almost intelligent auto installer		
+#     activ inspire almost intelligent auto installer		
 #														                            
-#	   written by Joe Selway in 2019 copytotheleft        
+#     written by Joe Selway in 2019 copytotheleft        
 #															                          
 #     Run this script in a directory containing: 			  
 #															                          
 #     1. ONE ActivInspire_XX_XX_mac.dmg from Promethean	
 #     2. valid installer_choices.xml						        
 #															                          
-#	  KNOWN ISSUES:							                      		
+#     KNOWN ISSUES:							                      		
 #													                              
-#	  -  horrible code								                    
-#	  -  extreme danger to users		                			
+#     -  horrible code								                    
+#     -  extreme danger to users		                			
 #														                             
 ###############################################################
 
