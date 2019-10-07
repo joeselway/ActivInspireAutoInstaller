@@ -5,7 +5,6 @@
 #     aiaiai.sh								                  
 #															                          
 #     the activ inspire almost intelligent auto installer		
-#					^			^				^	     ^           ^    ^
 #
 #     written by Joe Selway in 2019 copytotheleft        
 #															                          
