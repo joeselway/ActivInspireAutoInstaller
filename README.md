@@ -9,7 +9,7 @@ Requires:
 1.  An ActivInspire .dmg file from Promethean (ActivInspire_XX_XX_mac.dmg) where XX_XX is the language code.
 2.  A valid installer_choices.xml file (example included).
 
-As one of the objectives of this script was to install the vendor package with the "Resources" choice unselected, the example installer_choices.xml file is configured as such. Simply change the 1s and 0s as desired.
+As one of the objectives of this script's intial deployment was to install the vendor package with the "Resources" choice unselected, the example installer_choices.xml file is configured as such. Simply change the 1s and 0s as desired.
 
 Hopefully this helps someone who has the joy of deploying Promethean software without hindering them inappropriately.
 
