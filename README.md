@@ -2,12 +2,12 @@
 
 The Activ Inspire Almost Intelligent Auto Installer (aiaiai.sh)
 
-This is a truly awful script designed to automate the creation of custom .dmg packages for use with installPKGfromDMG.sh and Jamf Pro.
+This is a truly awful script designed to automate the creation of custom .dmg packages for use with [`installPKGfromDMG.sh`](https://github.com/joeselway/jamfpro-scripts/blob/master/installPKGfromDMG.sh) and Jamf Pro.
 
 Requires:
 
-1.  An ActivInspire .dmg file from Promethean (ActivInspire_XX_XX_mac.dmg) where XX_XX is the language code.
-2.  A valid installer_choices.xml file (example included).
+1.  An ActivInspire .dmg file from Promethean (`ActivInspire_XX_XX_mac.dmg`) where XX_XX is the language code.
+2.  A valid `installer_choices.xml` file (example included).
 
 As one of the objectives of this script's intial deployment was to install the vendor package with the "Resources" choice unselected, the example installer_choices.xml file is configured as such. Simply change the 1s and 0s as desired.
 
