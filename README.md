@@ -13,14 +13,14 @@ As one of the objectives of this script's intial deployment was to install the v
 
 Hopefully this helps someone who has the joy of deploying Promethean software without hindering them inappropriately.
 
-Use at your own risk and copy to the left, to the left.
+**Use at your own risk** and copy to the left, to the left.
 
 How to use:
 
-1. Drop the Promethean .dmg into the ActivInspireAutoInstaller directory
+1. Drop the Promethean .dmg into the `ActivInspireAutoInstaller` directory
 2. cd to same
-3. ./aiaiai.sh
+3. `./aiaiai.sh`
 4. Drop the custom output .dmg into Jamf Admin
-5. Configure policy with .dmg package set to *Cache* and installPKGfromDMG.sh set to *After*
+5. Configure policy with custom .dmg package set to **Cache** and `installPKGfromDMG.sh` set to **After**
 
-compatible installPKGfromDMG.sh available here - https://github.com/joeselway/jamfpro-scripts/blob/master/installPKGfromDMG.sh
+Compatible installPKGfromDMG.sh available here - https://github.com/joeselway/jamfpro-scripts/blob/master/installPKGfromDMG.sh - with credit to @smashism and Blake Suggett via Jamf Nation.
