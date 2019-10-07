@@ -11,7 +11,7 @@ Requires:
 
 As one of the objectives of this script's intial deployment was to install the vendor package with the "Resources" choice unselected, the example installer_choices.xml file is configured as such. Simply change the 1s and 0s as desired.
 
-Hopefully this helps someone who has the joy of deploying Promethean software without hindering them inappropriately.
+Hopefully this helps someone who has the joy of deploying Promethean software without hindering them unduly.
 
 **Use at your own risk** and copy to the left, to the left.
 
