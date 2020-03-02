@@ -24,3 +24,11 @@ How to use:
 5. Configure policy with custom .dmg package set to **Cache** and `installPKGfromDMG.sh` set to **After**
 
 Compatible [`installPKGfromDMG.sh` available here](https://github.com/joeselway/jamfpro-scripts/blob/master/installPKGfromDMG.sh) with credit to [@jamf](http://github.com/jamf), [@smashism](https://github.com/smashism) and [bsuggett @ Jamf Nation](https://www.jamf.com/jamf-nation/users/8137/bsuggett).
+
+Sample installPKGfromDMG.sh script parameters (Priority = After):
+
+4.  dmgName = "ActivInspire-*.dmg"
+5.  forcesuccessflag = ""
+6.  useinstallerapp = "YES"
+7.  allowUntrusted = "YES"
+8.  applyChoiceChangesXMLfile = "installer_choices.xml"
